@@ -36,6 +36,8 @@
   <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="40" alt="elysia.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.SoMz5j2ffpwQMB1HIwNncgHaFj?rs=1&pid=ImgDetMain" height="40" alt="odoo logo" />
 </div>
 
 
