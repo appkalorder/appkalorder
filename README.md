@@ -47,11 +47,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/elysiajs/elysia/main/assets/logo.svg" height="40" alt="elysia.js logo" />
+  <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="40" alt="elysia.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/oven-sh/bun/main/assets/logo-dark.svg" height="40" alt="bun logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_poHZD7zedIFVi_xyvSwkXCSsfmhNYElEQA&s" height="40" alt="bun logo" />
 </div>
 
 
