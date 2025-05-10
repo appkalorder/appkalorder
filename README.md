@@ -50,8 +50,6 @@
   <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" height="40" alt="elysia.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/44/2/bun-logo-png_seeklogo-443204.png" height="40" alt="bun logo" />
 </div>
 
 
